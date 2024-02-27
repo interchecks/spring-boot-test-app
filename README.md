@@ -47,7 +47,16 @@ mvnw.cmd spring-boot:run
 
 
 # HTTP CLIENT CALLS
+The http endpoints in this project can be exercised in whatever manner is most convenient.
+Postman and curl examples are provided below.
 
+## POSTMAN
+
+the resources/postman directory in this project contains an importable postman collection.
+Postman collection v2.0 and v2.1 are provided, either is fine provided your version of Postman supports it.
+
+## CURL
+The endpoints can
 #### GET TEST
 ##### MacOs/Linux
 ``` BASH
